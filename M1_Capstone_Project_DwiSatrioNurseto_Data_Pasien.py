@@ -1,6 +1,6 @@
 # DWI SATRIO NURSETO
 # Nama Rumah Sakit = 'Rumah Sakit Purwadhika BSD'
-# Keys dictionary == 6 :
+# Keys dictionary == 5 :
         # 'No. ID Pasien'
         # 'Nama Pasien'
         # 'Jenis Kelamin Pasien'
