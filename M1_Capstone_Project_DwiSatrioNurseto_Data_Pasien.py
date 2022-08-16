@@ -6,7 +6,6 @@
         # 'Jenis Kelamin Pasien'
         # 'Berat Badan Pasien'  (BB)
         # 'Tinggi Badan Pasien' (TB)
-        # 'IMT' / 'BMI'         (BMI) = (BB)kg/((TB/100)**2)m^2
 
 # Menu di Welcome page : 
         # 1. Menampilkan data pasien    ✅
